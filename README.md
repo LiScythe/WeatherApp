@@ -3,7 +3,7 @@ In this assessment, you will be required to demonstrate your understanding on:
 1. Connecting and retrieval of data from API.
 2. Performing validations and showing error messages appropriately.
 3. Integration with third-party libraries.
-4. Implementing best practises and clean codes.
+4. Implementing best practises and clean codes, e.g. reusable codes that can be used repetitively, in different screens, projects, or by other team members.
 
 # Deliverables
 1. Create a screen that shows daily forecast for 7 days
@@ -13,10 +13,9 @@ In this assessment, you will be required to demonstrate your understanding on:
 
 # Scoring Criteria 
 ## ReactJS
-1. Accurate user interface implementation using Material UI.
+1. Accurate user interface implementation.
 2. Presentable on different web browsers and responsive.
-3. Implementation of ReactJs best practices, 
-   e.g. reusable codes that can be used repetitively, in different screens, projects, or by other team members.
+3. Implementation of ReactJs best practices.
 4. Structured and clean codes.
 
 We are also looking out for more advanced coding implementations as described below: 
@@ -26,8 +25,7 @@ We are also looking out for more advanced coding implementations as described be
 ## React Native
 1. Accurate user interface implementation.
 2. Presentable on all iPhone and Android devices.
-3. Implementation of React Native best practices, e.g. reusable codes that can be used
-repetitively, in different screens, projects, or by other team members.
+3. Implementation of React Native best practices. 
 4. Structured and clean codes.
 
 We are also looking out for more advanced coding implementations as described below:
