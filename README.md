@@ -9,7 +9,7 @@ In this assessment, you will be required to demonstrate your understanding on:
 1. Create a screen that shows daily forecast for 7 days
     - You should connect to the OpenWeatherMap API to obtain weather data. https://openweathermap.org/api
 
-2. Create a second screen to show hourly forecast for selected days from screen 1
+2. Create a second screen to show every 3 hours forecast for selected days from screen 1
 
 # Scoring Criteria 
 ## ReactJS
