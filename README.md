@@ -11,15 +11,6 @@ In this assessment, you will be required to demonstrate your understanding on:
 
 2. Create a second screen to show every 3 hours forecast for selected days from screen 1
 
-## Sample Screen: 
-This is just an example, feel free to improvise.
-### ReactJS
-<img width="889" alt="Screenshot 2021-03-01 at 12 02 12 PM" src="https://user-images.githubusercontent.com/15083795/109463281-ae719480-7a9f-11eb-8c95-fe7a389568ab.png">
-
-### React Native
-<img width="395" alt="Screenshot 2021-03-01 at 3 06 39 PM" src="https://user-images.githubusercontent.com/15083795/109463421-f2649980-7a9f-11eb-8039-80e9647b9b66.png">
-
-
 # Scoring Criteria 
 ## ReactJS
 1. Accurate user interface implementation.
