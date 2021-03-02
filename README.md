@@ -11,6 +11,15 @@ In this assessment, you will be required to demonstrate your understanding on:
 
 2. Create a second screen to show every 3 hours forecast for selected days from screen 1
 
+These are the sample mockup designs, feel free to improvise!
+
+### Web
+![Weather](https://user-images.githubusercontent.com/15083795/109596440-3c598800-7b51-11eb-8aa0-f2e84fc0b8f4.png)
+
+## React Native
+![WeatherApp (1)](https://user-images.githubusercontent.com/15083795/109596460-44192c80-7b51-11eb-9157-524c50f389fe.png)
+
+
 # Scoring Criteria 
 ## ReactJS
 1. Accurate user interface implementation.
