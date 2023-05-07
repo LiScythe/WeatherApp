@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mi_wrn",
+    "slug": "mi_wrn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mi_wrn"
+}
