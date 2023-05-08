@@ -44,3 +44,8 @@ We are also looking out for more advanced coding implementations as described be
 # Submission
 
 The project codes must be uploaded onto an online GIT repository (e.g Github, Bitbucket, Gitlab) and shared with us for final review. Please use `.gitignore` to avoid uploading unnecessary files to the repo. Upload all screenshots in your `README` file.
+# WeatherApp
+A Weather app that display 6 days of forecast with 3 hours frequency
+
+
+Im using FREE version https://api.openweathermap.org/data/2.5/forecast. Hence, it is limited to 6 days forecast with 3 hours frequency of forecast data.
